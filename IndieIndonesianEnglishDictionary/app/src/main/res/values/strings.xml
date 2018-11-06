@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IndiE Dictionary</string>
+
+    <string name="app_first_run">app_first_run</string>
+    <string name="result_for">Result for:</string>
+    <string name="no_result_for">No result for:</string>
+    <string name="press_back_to_exit">Press BACK again to exit</string>
+    <string name="about_indie">About IndiE</string>
+    <string name="cari_kata">Cari kata</string>
+    <string name="id_en">Indonesian - English</string>
+    <string name="en_id">English - Indonesian</string>
+    <string name="indonesian_english_english_indonesian_n_offline_dictionary">Indonesian English - English Indonesian   Offline Dictionary</string>
+    <string name="first_release">** first release **</string>
+    <string name="indie">IndiE</string>
+    <string name="d">#RychEmrycho\n:D</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="kata">Kata</string>
+    <string name="konten">Konten</string>
+    <string name="keyword">Keyword</string>
+    <string name="preparing_data">Preparing data</string>
+</resources>
